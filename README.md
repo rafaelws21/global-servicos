@@ -1,2 +1,3 @@
-# site-maquinas
-Site de maquinas
+# site-exemplo 
+Template em `HTML`, `CSS`, `JAVASCRIPT`.
+- Boostrap.
